@@ -1,0 +1,44 @@
+/**
+* Template Name: Baker - v4.7.0
+* Template URL: https://bootstrapmade.com/baker-free-onepage-bootstrap-theme/
+* Author: BootstrapMade.com
+* License: https://bootstrapmade.com/license/
+*/
+
+/*--------------------------------------------------------------
+# General
+--------------------------------------------------------------*/
+
+a {
+  color: #c50132;
+
+  text-decoration: none;
+}
+
+a:hover {
+  color: #89d1dd;
+  text-decoration: none;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Raleway", sans-serif;
+}
+
+a.button-update{
+  background: "#ffc107";
+  border: "0";
+  padding: "7px 30px";
+  color: "black";
+  transition: "5s";
+  border-radius: "50px";
+  margin-left:"30px";
+
+  color:"black";
+
+}
+a.button-update:hover {
+  color: #ffce3a;
+  /* background-color: rgb(252, 7, 7);
+  border: 2px solid #f70606;
+  text-decoration: none; */
+}
